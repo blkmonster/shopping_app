@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "历史记录",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-subsection": "/uni_modules/uview-ui/components/u-subsection/u-subsection",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line"
+  }
+}

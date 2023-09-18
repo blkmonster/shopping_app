@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "编辑地址",
+  "usingComponents": {
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-divider": "/uni_modules/uview-ui/components/u-divider/u-divider",
+    "u-radio-group": "/uni_modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uni_modules/uview-ui/components/u-radio/u-radio",
+    "u-switch": "/uni_modules/uview-ui/components/u-switch/u-switch"
+  }
+}

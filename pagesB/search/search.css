@@ -1,0 +1,154 @@
+.nvbg {
+	border: 2rpx #f0f0f0 solid;
+	border-radius: 30rpx;
+	margin-right: 110rpx;
+	width: 55vw;
+}
+.right-box {
+	background-color: rgb(250, 250, 250);
+	height: 75vh;
+}
+.page-view {
+	padding: 16rpx;
+}
+
+.class-item {
+	margin-bottom: 30rpx;
+	background-color: #fff;
+	padding: 16rpx;
+	border-radius: 8rpx;
+}
+.item-container {
+	display: flex;
+	flex-wrap: wrap;
+	/* margin-top: 20rpx; */
+}
+
+.thumb-box {
+	width: 100%;
+	margin-top: 10rpx;
+	margin-bottom: 10rpx;
+	height: 220rpx;
+	background-color: #f0f0f0;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	border-radius: 20rpx;
+}
+
+.item-menu-image {
+	width: 180rpx;
+	height: 200rpx;
+	margin: 10rpx;
+	background-color: #fff;
+}
+.line-2 {
+	font-weight: 800;
+	font-size: 26rpx;
+	margin-right: 10rpx;
+	color: $u-main-color;
+	width: 300rpx;
+	font-weight: bold;
+}
+.line-3 {
+	font-size: 22rpx;
+	margin-top: 10rpx;
+	margin-right: 10rpx;
+	color: #666;
+}
+.line-4 {
+	font-size: 25rpx;
+	font-weight: 600;
+	margin-top: 5rpx;
+	color: #ff0000;
+}
+
+.txt2 {
+	margin-top: 300rpx;
+	text-align: center;
+}
+.txt2 text {
+	font-size: 40rpx;
+	color: #8c8c8c;
+	margin-top: 50%;
+}
+.tag {
+	width: 100vw;
+	margin-top: 20%;
+	margin-bottom: 20rpx;
+}
+
+.tag .txt {
+	margin-left: 40rpx;
+	padding-top: 40rpx;
+}
+
+.tag text {
+	font-size: 26rpx;
+	font-weight: 800;
+}
+
+.tag .grid {
+	margin-left: -24rpx;
+	margin-top: 20rpx;
+	width: 80rpx;
+}
+
+.image_new {
+	height: 80rpx;
+	width: 80rpx;
+}
+
+/* 历史搜索样式 */
+.history-search {
+	margin-top: 160rpx;
+	padding: 10px;
+	background-color: #fff;
+}
+.keyword-search {
+	margin-top: 10rpx;
+	padding: 10px;
+	background-color: #fff;
+}
+.history-line {
+	display: flex;
+	justify-content: space-between; /* 使子元素间距平均分布 */
+}
+
+.title {
+	font-size: 14px;
+	margin-bottom: 6px;
+	margin-right: auto;
+}
+
+.icon {
+	margin-left: auto;
+}
+
+.content {
+overflow: hidden;
+}
+
+.content .item {
+	padding: 10rpx;
+	padding-left: 40rpx;
+	padding-right: 40rpx;
+	margin-right: 20rpx;
+	margin-top: 20rpx;
+	background-color: #efefef;
+	border-radius: 16rpx;
+	font-size: 12px;
+	line-height: 1.5;
+	color: #666;
+	text-align: center;
+	float: left;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.icon-delete {
+position: absolute;
+top: -3px;
+right: -3px;
+}

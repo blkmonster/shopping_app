@@ -1,0 +1,62 @@
+.container {
+  
+}
+
+/* 地址条目 */
+.address-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 160rpx; /* 增加高度 */
+  margin: 10rpx; /* 增加间隔 */
+  margin-left: 30rpx;
+}
+
+/* 地址信息 */
+.address-info {
+  flex: 1;
+}
+
+.address-tag {
+  margin-left: 16rpx;
+}
+
+.address-text {
+  font-size: 30rpx; /* 增大字体 */
+  color: #666666;
+  line-height: 48rpx; /* 调整间距 */
+}
+
+/* 编辑按钮 */
+.edit-btn {
+  width: 160rpx;
+  display: flex;
+  justify-content: center;
+}
+.edit-btn button {
+  background-color: #ff6161;
+  color: #ffffff;
+  border-radius: 4rpx;
+  padding: 8rpx 16rpx;
+}
+
+/* 添加新地址按钮 */
+.add-btn {
+  position: fixed;
+  bottom: 50rpx;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500rpx;
+}
+.add-btn button {
+  background-color: #33cc66; /* 更改背景颜色 */
+  color: #ffffff;
+  border-radius: 50rpx; /* 增加边框圆角 */
+  border: none;
+  box-shadow: 0 2rpx 9rpx rgba(0, 0, 0, 0.15); /* 增加阴影效果 */
+}
+
+/* 去掉u-swipe-action-item的padding，以使每一条信息之间的间隔更宽 */
+.u-swipe-action-item {
+  padding: 0 !important;
+}

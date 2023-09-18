@@ -1,0 +1,105 @@
+.no-login {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.no-login .c {
+    width: 100%;
+    height: auto;
+    margin-top: 50rpx;
+}
+.imagesize {
+    display: flex;
+    justify-content: center; /*水平轴线居中*/
+}
+.imagesize image {
+    width: 100rpx;
+    height: 100rpx;
+}
+.logo {
+    margin-bottom: 60rpx;
+}
+.no-login .c text {
+    margin: 20rpx auto;
+    display: block;
+    width: 258rpx;
+    height: 50rpx;
+    /*line-height: 29rpx;*/
+    text-align: center;
+    font-size: 35rpx;
+    color: #000;
+}
+.no-login .c .tip {
+    width: auto;
+    font-size: 28rpx;
+    color: gray;
+    height: 30rpx;
+    margin-bottom: 150rpx;
+}
+.no-login button {
+    width: 40%;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 30rpx;
+    height: 96rpx;
+    line-height: 96rpx;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: flex;
+    bottom: 0;
+    left: 0;
+    border-radius: 0;
+    padding: 0;
+    margin-left: 30%;
+    text-align: center;
+    letter-spacing: 3rpx;
+    background-image: linear-gradient(to right, #132046 0%, #132046 100%);
+}
+.login {
+	background-color: #f0f0f0;
+}
+.login .info {
+	background-color: rgba(255,127,80,0.5);
+	height: 20vh;
+	width: 100vw;
+	border-bottom-left-radius: 50rpx;
+	border-bottom-right-radius: 50rpx;
+	z-index: 999;
+}
+.login .info .s {
+	padding: 40rpx;
+}
+.login .info .s image {
+	border-radius: 50%;
+	height: 120rpx;
+	width: 120rpx;
+}
+.login .info .s .storeInfo {
+	font-size: 26rpx;
+	font-weight: 800;
+	padding-right: 30%;
+}
+.login .click {
+	background-color: #f0f0f0;
+	height: 80vh;
+}
+.login .click .c {
+	padding-top: 5vh;
+}
+.login .click .c .cel {
+	margin-left: 30rpx;
+	margin-right: 30rpx;
+	background-color: #fff;
+	border-radius: 20rpx;
+}
+.login .click .c .solo {
+	height: 20rpx;
+	background-color: #f0f0f0;
+}
+.solo2 {
+	height: 20rpx;
+	width: 70vw;
+}
+

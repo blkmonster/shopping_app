@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "收藏商品",
+  "usingComponents": {
+    "u-swipe-action": "/uni_modules/uview-ui/components/u-swipe-action/u-swipe-action",
+    "u-swipe-action-item": "/uni_modules/uview-ui/components/u-swipe-action-item/u-swipe-action-item",
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon"
+  }
+}

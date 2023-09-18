@@ -1,0 +1,28 @@
+.keyword-container {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	padding: 20px 0;
+}
+.keyword-item {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	width: 150rpx;
+	height: 60rpx;
+	background-color: #eee;
+	border-radius: 10px;
+	margin-right: 10px;
+}
+.keyword-item1 {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	width: 150rpx;
+	height: 60rpx;
+	background-color: #00e16d;
+	border-radius: 10px;
+	margin-right: 10px;
+}
+

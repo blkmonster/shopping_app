@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品评价",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-rate": "/uni_modules/uview-ui/components/u-rate/u-rate",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line"
+  }
+}
